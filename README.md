@@ -78,5 +78,3 @@ The dataset contains **1000 retail transactions** from 2023 with the following c
 
 ---
 
-## 📬 Author
-Built by a Data Analytics aspirant focused on real-world, interview-grade projects.
